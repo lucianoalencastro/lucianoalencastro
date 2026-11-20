@@ -8,22 +8,24 @@ Desenvolvedor focado em **Back-end e Engenharia de Software**, construindo aplic
 
 ### 🛠️ Tecnologias e Ferramentas
 
-![Python](https://shields.io)
-![Flask](https://shields.io)
-![SQLite](https://shields.io)
-![JavaScript](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![Bootstrap](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,flask,sqlite,postgres,mysql,html,css,bootstrap,js,git,github,vscode" />
+  </a>
+</p>
 
 * **Arquitetura & Boas Práticas:** Arquitetura em Camadas (*Controller, Service, Repository*), Princípios SOLID, Clean Code e Idempotência em Transações.
 
 ### 📫 Onde me encontrar
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Gmail](https://shields.io)](mailto:alencastrogarcia1@gmail.com)
+<p align="left">
+  <a href="mailto:alencastrogarcia1@gmail.com">
+    <img src="https://img.shields.io/badge/email-white?style=for-the-badge&logo=email&logoColor=blue" />
+  </a>
+  <a href="https://www.linkedin.com/in/lucianoalencastro/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 
 
